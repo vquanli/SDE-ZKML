@@ -1,0 +1,44 @@
+{
+  "inputs": [
+    {
+      "name": "f",
+      "public": false,
+      "type": "array",
+      "components": {
+        "size": 191,
+        "type": "struct",
+        "components": {
+          "name": "i64",
+          "generics": [],
+          "members": [
+            {
+              "name": "sgn",
+              "type": "bool"
+            },
+            {
+              "name": "v",
+              "type": "u64"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "output": {
+    "type": "struct",
+    "components": {
+      "name": "i64",
+      "generics": [],
+      "members": [
+        {
+          "name": "sgn",
+          "type": "bool"
+        },
+        {
+          "name": "v",
+          "type": "u64"
+        }
+      ]
+    }
+  }
+}

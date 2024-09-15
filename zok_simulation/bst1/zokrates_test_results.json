@@ -1,0 +1,66 @@
+[
+    {
+        "program": "bst1_50.zok",
+        "compile_time": 11.193970441818237,
+        "circuit_size": 37890740,
+        "execution_time": 1.1062932014465332,
+        "proof_size": 923,
+        "verification_time": 0.09249639511108398
+    },
+    {
+        "program": "bst1_100.zok",
+        "compile_time": 29.851336240768433,
+        "circuit_size": 79013061,
+        "execution_time": 2.1127357482910156,
+        "proof_size": 923,
+        "verification_time": 0.08322620391845703
+    },
+    {
+        "program": "bst1_250.zok",
+        "compile_time": 144.70633792877197,
+        "circuit_size": 217444299,
+        "execution_time": 4.688368797302246,
+        "proof_size": 923,
+        "verification_time": 0.08072566986083984
+    },
+    {
+        "program": "bst1_10.zok",
+        "compile_time": 2.070608139038086,
+        "circuit_size": 11422834,
+        "execution_time": 0.3683745861053467,
+        "proof_size": 923,
+        "verification_time": 0.08175039291381836
+    },
+    {
+        "program": "bst1_300.zok",
+        "compile_time": 207.68381142616272,
+        "circuit_size": 267328964,
+        "execution_time": 5.49022650718689,
+        "proof_size": 923,
+        "verification_time": 0.07397937774658203
+    },
+    {
+        "program": "bst1_200.zok",
+        "compile_time": 95.06152105331421,
+        "circuit_size": 165813257,
+        "execution_time": 3.6712806224823,
+        "proof_size": 923,
+        "verification_time": 0.11547231674194336
+    },
+    {
+        "program": "bst1_150.zok",
+        "compile_time": 55.17842698097229,
+        "circuit_size": 120430197,
+        "execution_time": 2.5909359455108643,
+        "proof_size": 923,
+        "verification_time": 0.07679581642150879
+    },
+    {
+        "program": "bst1_20.zok",
+        "compile_time": 4.048503398895264,
+        "circuit_size": 18360006,
+        "execution_time": 0.5113983154296875,
+        "proof_size": 923,
+        "verification_time": 0.07599997520446777
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "program": "bst4_50.zok",
+        "compile_time": 365.2452235221863,
+        "circuit_size": 338972667,
+        "execution_time": 6.480437755584717,
+        "proof_size": 923,
+        "verification_time": 0.07060718536376953
+    },
+    {
+        "program": "bst4_300.zok",
+        "compile_time": 10270.147405862808,
+        "circuit_size": 0,
+        "execution_time": 0.08720707893371582,
+        "proof_size": 923,
+        "verification_time": 0.09479045867919922
+    },
+    {
+        "program": "bst4_200.zok",
+        "compile_time": 4543.098969936371,
+        "circuit_size": 0,
+        "execution_time": 0.10053658485412598,
+        "proof_size": 923,
+        "verification_time": 0.10756874084472656
+    },
+    {
+        "program": "bst4_150.zok",
+        "compile_time": 2672.0992929935455,
+        "circuit_size": 1015430534,
+        "execution_time": 23.294331550598145,
+        "proof_size": 923,
+        "verification_time": 0.08490705490112305
+    },
+    {
+        "program": "bst4_20.zok",
+        "compile_time": 71.6258761882782,
+        "circuit_size": 140372178,
+        "execution_time": 3.23582124710083,
+        "proof_size": 923,
+        "verification_time": 0.08109927177429199
+    },
+    {
+        "program": "bst4_100.zok",
+        "compile_time": 1173.3584296703339,
+        "circuit_size": 673537961,
+        "execution_time": 14.6089026927948,
+        "proof_size": 923,
+        "verification_time": 0.08583879470825195
+    },
+    {
+        "program": "bst4_250.zok",
+        "compile_time": 8299.537328720093,
+        "circuit_size": 0,
+        "execution_time": 0.09981393814086914,
+        "proof_size": 923,
+        "verification_time": 0.08949518203735352
+    },
+    {
+        "program": "bst4_10.zok",
+        "compile_time": 26.64640474319458,
+        "circuit_size": 77321443,
+        "execution_time": 1.9945380687713623,
+        "proof_size": 923,
+        "verification_time": 0.11214566230773926
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "program": "bst4_10_no_use_xtra_features.zok",
+        "compile_time": 35.94999814033508,
+        "circuit_size": 77732861,
+        "execution_time": 1.9041929244995117,
+        "proof_size": 923,
+        "verification_time": 0.05694174766540527
+    },
+    {
+        "program": "bst4_20_no_use_xtra_features.zok",
+        "compile_time": 105.21726131439209,
+        "circuit_size": 144230866,
+        "execution_time": 3.5198047161102295,
+        "proof_size": 923,
+        "verification_time": 0.057610273361206055
+    },
+    {
+        "program": "bst4_150_no_use_xtra_features.zok",
+        "compile_time": 3925.460792541504,
+        "circuit_size": 1026943605,
+        "execution_time": 24.104248523712158,
+        "proof_size": 923,
+        "verification_time": 0.05837655067443848
+    },
+    {
+        "program": "bst4_50_no_use_xtra_features.zok",
+        "compile_time": 498.95776867866516,
+        "circuit_size": 340950281,
+        "execution_time": 8.061814785003662,
+        "proof_size": 923,
+        "verification_time": 0.05726432800292969
+    },
+    {
+        "program": "bst4_100_no_use_xtra_features.zok",
+        "compile_time": 1793.1950190067291,
+        "circuit_size": 675247453,
+        "execution_time": 15.2191743850708,
+        "proof_size": 923,
+        "verification_time": 0.060669660568237305
+    }
+]

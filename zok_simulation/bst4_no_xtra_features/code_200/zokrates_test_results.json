@@ -1,0 +1,10 @@
+[
+    {
+        "program": "bst4_200_no_use_xtra_features.zok",
+        "compile_time": 7174.652993917465,
+        "circuit_size": 1413500002,
+        "execution_time": 33.265918493270874,
+        "proof_size": 923,
+        "verification_time": 0.05793285369873047
+    }
+]

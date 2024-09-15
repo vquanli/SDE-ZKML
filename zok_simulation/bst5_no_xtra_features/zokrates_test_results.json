@@ -1,0 +1,66 @@
+[
+    {
+        "program": "bst5_10_no_use_xtra_features.zok",
+        "compile_time": 4.576858282089233,
+        "circuit_size": 21742204,
+        "execution_time": 0.700096845626831,
+        "proof_size": 923,
+        "verification_time": 0.07814264297485352
+    },
+    {
+        "program": "bst5_20_no_use_xtra_features.zok",
+        "compile_time": 9.98778486251831,
+        "circuit_size": 38370980,
+        "execution_time": 1.2850861549377441,
+        "proof_size": 923,
+        "verification_time": 0.09328436851501465
+    },
+    {
+        "program": "bst5_300_no_use_xtra_features.zok",
+        "compile_time": 743.9533905982971,
+        "circuit_size": 508436882,
+        "execution_time": 9.511581420898438,
+        "proof_size": 923,
+        "verification_time": 0.0798337459564209
+    },
+    {
+        "program": "bst5_250_no_use_xtra_features.zok",
+        "compile_time": 523.170802116394,
+        "circuit_size": 412883387,
+        "execution_time": 7.73889946937561,
+        "proof_size": 923,
+        "verification_time": 0.0805673599243164
+    },
+    {
+        "program": "bst5_200_no_use_xtra_features.zok",
+        "compile_time": 319.6498053073883,
+        "circuit_size": 324240283,
+        "execution_time": 6.107172012329102,
+        "proof_size": 923,
+        "verification_time": 0.07523369789123535
+    },
+    {
+        "program": "bst5_50_no_use_xtra_features.zok",
+        "compile_time": 32.108089447021484,
+        "circuit_size": 84885372,
+        "execution_time": 1.727193832397461,
+        "proof_size": 923,
+        "verification_time": 0.08101797103881836
+    },
+    {
+        "program": "bst5_150_no_use_xtra_features.zok",
+        "compile_time": 208.62260913848877,
+        "circuit_size": 240878037,
+        "execution_time": 4.715731143951416,
+        "proof_size": 923,
+        "verification_time": 0.07784271240234375
+    },
+    {
+        "program": "bst5_100_no_use_xtra_features.zok",
+        "compile_time": 96.03078365325928,
+        "circuit_size": 164074129,
+        "execution_time": 3.2522242069244385,
+        "proof_size": 923,
+        "verification_time": 0.08438825607299805
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "program": "bst2_10.zok",
+        "compile_time": 3.4722909927368164,
+        "circuit_size": 16976999,
+        "execution_time": 0.5182161331176758,
+        "proof_size": 923,
+        "verification_time": 0.07684183120727539
+    },
+    {
+        "program": "bst2_150.zok",
+        "compile_time": 139.47192478179932,
+        "circuit_size": 205163373,
+        "execution_time": 4.776080131530762,
+        "proof_size": 923,
+        "verification_time": 0.0846717357635498
+    },
+    {
+        "program": "bst2_200.zok",
+        "compile_time": 260.79513478279114,
+        "circuit_size": 270581017,
+        "execution_time": 5.941006898880005,
+        "proof_size": 923,
+        "verification_time": 0.08371448516845703
+    },
+    {
+        "program": "bst2_300.zok",
+        "compile_time": 522.7063827514648,
+        "circuit_size": 418338554,
+        "execution_time": 8.66945505142212,
+        "proof_size": 923,
+        "verification_time": 0.11655521392822266
+    },
+    {
+        "program": "bst2_250.zok",
+        "compile_time": 506.7186977863312,
+        "circuit_size": 341736819,
+        "execution_time": 7.851598024368286,
+        "proof_size": 923,
+        "verification_time": 0.08765387535095215
+    },
+    {
+        "program": "bst2_100.zok",
+        "compile_time": 73.54532766342163,
+        "circuit_size": 134895136,
+        "execution_time": 3.342484474182129,
+        "proof_size": 923,
+        "verification_time": 0.08908629417419434
+    },
+    {
+        "program": "bst2_20.zok",
+        "compile_time": 7.707383394241333,
+        "circuit_size": 29576933,
+        "execution_time": 0.7823271751403809,
+        "proof_size": 923,
+        "verification_time": 0.10754156112670898
+    },
+    {
+        "program": "bst2_50.zok",
+        "compile_time": 24.896341800689697,
+        "circuit_size": 68489213,
+        "execution_time": 1.569476842880249,
+        "proof_size": 923,
+        "verification_time": 0.07847118377685547
+    }
+]

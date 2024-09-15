@@ -1,0 +1,66 @@
+[
+    {
+        "program": "bst3_250.zok",
+        "compile_time": 2130.9917476177216,
+        "circuit_size": 1059073266,
+        "execution_time": 23.828459978103638,
+        "proof_size": 923,
+        "verification_time": 0.08759903907775879
+    },
+    {
+        "program": "bst3_20.zok",
+        "compile_time": 23.727048873901367,
+        "circuit_size": 80547702,
+        "execution_time": 2.0054516792297363,
+        "proof_size": 923,
+        "verification_time": 0.08125185966491699
+    },
+    {
+        "program": "bst3_200.zok",
+        "compile_time": 1381.345823764801,
+        "circuit_size": 828631363,
+        "execution_time": 19.130377054214478,
+        "proof_size": 923,
+        "verification_time": 0.08806324005126953
+    },
+    {
+        "program": "bst3_150.zok",
+        "compile_time": 740.3778285980225,
+        "circuit_size": 608131848,
+        "execution_time": 12.55021357536316,
+        "proof_size": 923,
+        "verification_time": 0.09436440467834473
+    },
+    {
+        "program": "bst3_300.zok",
+        "compile_time": 3098.1534991264343,
+        "circuit_size": 1292866335,
+        "execution_time": 26.832027435302734,
+        "proof_size": 923,
+        "verification_time": 0.08317375183105469
+    },
+    {
+        "program": "bst3_50.zok",
+        "compile_time": 101.20399284362793,
+        "circuit_size": 194198552,
+        "execution_time": 4.786916971206665,
+        "proof_size": 923,
+        "verification_time": 0.08487987518310547
+    },
+    {
+        "program": "bst3_10.zok",
+        "compile_time": 10.302874326705933,
+        "circuit_size": 43427990,
+        "execution_time": 1.1001801490783691,
+        "proof_size": 923,
+        "verification_time": 0.09491944313049316
+    },
+    {
+        "program": "bst3_100.zok",
+        "compile_time": 345.0824999809265,
+        "circuit_size": 399924348,
+        "execution_time": 8.782179594039917,
+        "proof_size": 923,
+        "verification_time": 0.08704113960266113
+    }
+]
